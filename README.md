@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/amandine16/amandine16/banner-linkedin.png)
+
 <!--
 **amandine16/amandine16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
