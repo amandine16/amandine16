@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Cover](https://github.com/amandine16/amandine16/blob/main/banner-github.png)
 
 ### SEARCHING JOB REACT ! 
